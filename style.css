@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.player_characters div {
+    max-width = 408px;
+    background-color: blue;
+    border: 3px solid white;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    border: 0;
+    background-size: 100%;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+#canvas1 {
+    border: 5px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #4d79bc;
+}
