@@ -10,10 +10,18 @@
     border: 3px solid white;
 }
 
-.mmu_spread {
+.mmu_characters {
     max-width = 408px;
     background-color: purple;
     border: 3px solid red;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    border: 0;
+    background-size: 100%;
+    background-color: blue;
 }
 
 button {
