@@ -4,10 +4,16 @@
     box-sizing: border-box;
 }
 
-.player_characters div {
+.player_characters {
     max-width = 408px;
     background-color: blue;
     border: 3px solid white;
+}
+
+.mmu_spread {
+    max-width = 408px;
+    background-color: purple;
+    border: 3px solid red;
 }
 
 button {
