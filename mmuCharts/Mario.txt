@@ -1,0 +1,6 @@
+credit:eventhubs
+2:Little-Mac,King-K-Rool,Ganondorf,Donkey-Kong,King-Dedede,Incineroar,Bowser-Jr,Mii-Gunner,Jigglypuff,Isabelle,Simon,Richter,Piranha-Plant,Mii-Swordfighter,Villager,Bowser,Kirby,Captain-Falcon,Robin
+1:Bayonetta,Wii-Fit-Trainer,R.O.B.,Pichu,Ridley,Samus,Dark-Samus,Duck-Hunt,Toon-Link,Sheik,Lucario,Mewtwo,Ryu,Hero,Diddy-Kong,Mega-Man,Dr-Mario,Terry,Olimar,Pac-Man,Ken,Inkling,Banjo-Kazooie,Zelda,Wolf,Min-Min,Meta-Knight,Pit,Dark-Pit,Lucas,Link,Mii-Brawler,Ice-Climbers,Rosalina,Ness,Pikachu,Fox,Ike,Falco,Wario,Young-Link,Pokemon-Trainer
+0:Corrin,Kazuya,Sora,Byleth,Luigi,Snake,Sonic,Chrom,Joker
+-1:Greninja,Yoshi,Sephiroth,Roy,Zero-Suit-Samus,Peach,Daisy,Mr-Game-Watch,Cloud,Marth
+-2:Palutena,Pyra-Mythra,Steve,Shulk,Lucina

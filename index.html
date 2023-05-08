@@ -6,8 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matchup</title>
     <link rel="stylesheet" href="style.css">
+    <script src="scripts/smash-characters.js"></script>
     <script src="scripts/player-characters.js"></script>
     <script src="scripts/mmu-spread.js"></script>
+    <script src="scripts/vMmuCharts.js"></script>
 </head>
 <body onload="printBtn(); printImgs();">
 
@@ -15,10 +17,31 @@
             id="player_characters">
     </div>
 
-    <button class = "white"
-            id = "reset-button">
-                RESET
-    </button>
+    <div class="middle_buttons"
+            id="middle_buttons">
+        <button class="white"
+                   id="reset-button">
+                    RESET
+        </button>
+        <button class="white"
+                   id="confirm-button">
+                    CONFIRM
+        </button>
+        <input type="checkbox"
+                 id="winning"
+               name="checkWinning"
+              value="uncheckedLosing">
+              <label for="winning">
+                Check for Losing Matchups
+              </label><br>
+        <input type="checkbox"
+                 id="include-even"
+               name="include-even"
+              value="include-even-matchups">
+              <label for="include-even">
+                Include Even Matchups
+              </label><br>
+    </div>
 
     <div class="mmu_characters"
             id="mmu_characters">
